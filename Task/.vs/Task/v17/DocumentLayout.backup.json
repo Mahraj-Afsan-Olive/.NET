@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Web Development\\.NET\\Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|f:\\web development\\.net\\task\\task\\views\\profile\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|solutionrelative:task\\views\\profile\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|f:\\web development\\.net\\task\\task\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|solutionrelative:task\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|f:\\web development\\.net\\task\\task\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|solutionrelative:task\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|f:\\web development\\.net\\task\\task\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|solutionrelative:task\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|f:\\web development\\.net\\task\\task\\views\\profile\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|solutionrelative:task\\views\\profile\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|f:\\web development\\.net\\task\\task\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|solutionrelative:task\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|f:\\web development\\.net\\task\\task\\views\\profile\\reference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|solutionrelative:task\\views\\profile\\reference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|f:\\web development\\.net\\task\\task\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|solutionrelative:task\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|f:\\web development\\.net\\task\\task\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A707B50-3F39-4551-B4DD-9D395F77B006}|Task\\Task.csproj|solutionrelative:task\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "F:\\Web Development\\.NET\\Task\\Task\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Task\\Models\\Course.cs",
+              "ToolTip": "F:\\Web Development\\.NET\\Task\\Task\\Models\\Course.cs",
+              "RelativeToolTip": "Task\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:32:06.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\Web Development\\.NET\\Task\\Task\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Task\\Models\\Student.cs",
+              "ToolTip": "F:\\Web Development\\.NET\\Task\\Task\\Models\\Student.cs",
+              "RelativeToolTip": "Task\\Models\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:01:37.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reference.cshtml",
+              "DocumentMoniker": "F:\\Web Development\\.NET\\Task\\Task\\Views\\Profile\\Reference.cshtml",
+              "RelativeDocumentMoniker": "Task\\Views\\Profile\\Reference.cshtml",
+              "ToolTip": "F:\\Web Development\\.NET\\Task\\Task\\Views\\Profile\\Reference.cshtml",
+              "RelativeToolTip": "Task\\Views\\Profile\\Reference.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T13:36:05.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "F:\\Web Development\\.NET\\Task\\Task\\Views\\Profile\\Projects.cshtml",
+              "RelativeDocumentMoniker": "Task\\Views\\Profile\\Projects.cshtml",
+              "ToolTip": "F:\\Web Development\\.NET\\Task\\Task\\Views\\Profile\\Projects.cshtml",
+              "RelativeToolTip": "Task\\Views\\Profile\\Projects.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T13:35:50.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Education.cshtml",
+              "DocumentMoniker": "F:\\Web Development\\.NET\\Task\\Task\\Views\\Profile\\Education.cshtml",
+              "RelativeDocumentMoniker": "Task\\Views\\Profile\\Education.cshtml",
+              "ToolTip": "F:\\Web Development\\.NET\\Task\\Task\\Views\\Profile\\Education.cshtml",
+              "RelativeToolTip": "Task\\Views\\Profile\\Education.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T13:35:35.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Web Development\\.NET\\Task\\Task\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task\\Views\\Profile\\Index.cshtml",
+              "ToolTip": "F:\\Web Development\\.NET\\Task\\Task\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "Task\\Views\\Profile\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T13:35:20.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_myLayout.cshtml",
+              "DocumentMoniker": "F:\\Web Development\\.NET\\Task\\Task\\Views\\Shared\\_myLayout.cshtml",
+              "RelativeDocumentMoniker": "Task\\Views\\Shared\\_myLayout.cshtml",
+              "ToolTip": "F:\\Web Development\\.NET\\Task\\Task\\Views\\Shared\\_myLayout.cshtml",
+              "RelativeToolTip": "Task\\Views\\Shared\\_myLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T13:31:19.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "F:\\Web Development\\.NET\\Task\\Task\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Task\\App_Start\\RouteConfig.cs",
+              "ToolTip": "F:\\Web Development\\.NET\\Task\\Task\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Task\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:27:48.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "F:\\Web Development\\.NET\\Task\\Task\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Task\\Controllers\\ProfileController.cs",
+              "ToolTip": "F:\\Web Development\\.NET\\Task\\Task\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Task\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:27:29.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
